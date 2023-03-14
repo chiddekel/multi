@@ -1,0 +1,6 @@
+[submodule "sub2"]
+	path = sub2
+	url = git@github.com:chiddekel/sub2.git
+[submodule "sub1"]
+	path = sub1
+	url = git@github.com:chiddekel/sub1.git
